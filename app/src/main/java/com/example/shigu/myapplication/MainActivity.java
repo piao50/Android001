@@ -10,5 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         // gushi
         setContentView(R.layout.activity_main);
+        // hello how are you!!
     }
 }
